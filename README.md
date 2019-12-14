@@ -13,7 +13,7 @@
 
 <p>Dica: Esse processo é bem similar ao que vimos no curso com o arquivo .env do Laravel. Colocamos as varáveis de template no arquivo .env para o dockerize e ele fez o processo de substituição. Nesse caso, faça o mesmo processo para o arquivo nginx.conf colocando as variáveis para o host e porta do php-fpm. </p>
 
-  <p> <b> Os aquivos utilizados para resolução desta primeira parte do desafio está no diretório desafio-parte1.<b></p>
+  <p> <b> Os aquivos utilizados para resolução desta primeira parte do desafio está no diretório desafio-parte1.</b> </p>
 
 <hr/>
 
@@ -33,7 +33,7 @@ Você terá que publicar uma imagem no docker hub. Quando executarmos: </p>
 
 <p>Dica: No vídeo de introdução sobre o Docker quando falamos sobre o sistema de arquivos em camadas, apresento uma imagem "raiz", talvez seja uma boa utilizá-la. </p
   
-  <p> <b> Os aquivos Dockerfile e main.go usados para resolução desta segunda parte do desafio está no diretório desafio-parte2. A saída solicitada é obtida ao utilizar o seguinte comando: <b></p>
+  <p> <b> Os aquivos Dockerfile e main.go usados para resolução desta segunda parte do desafio está no diretório desafio-parte2. A saída solicitada é obtida ao utilizar o seguinte comando: </b></p>
  
  ``` docker run josimar1000/codeeducation  ```
 
