@@ -1,4 +1,5 @@
 * text=auto
+*.* linguist-language=php
 *.css linguist-vendored
 *.scss linguist-vendored
 *.js linguist-vendored
